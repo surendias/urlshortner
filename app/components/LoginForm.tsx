@@ -83,7 +83,7 @@ const LoginForm: React.FC = () => {
           </button>
         </form>
         <p className="text-gray-600 mt-3">
-          Don't have an account?{" "}
+          Don`t have an account?{" "}
           <Link href="/signup" className="text-blue-800 underline">
             Signup
           </Link>
